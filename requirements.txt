@@ -1,0 +1,7 @@
+gradio
+openai-whisper
+elevenlabs
+google-generativeai
+torch
+torchaudio
+numpy
